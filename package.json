@@ -1,0 +1,13 @@
+{
+  "name": "le nom de ton app",
+  "version": "une certaine version",
+  "description": "ta description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
