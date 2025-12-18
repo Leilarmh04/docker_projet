@@ -1,3 +1,4 @@
+
 let count = 0;
 const button = document.getElementById("button-clicker");
 const result = document.getElementById("result");
@@ -20,4 +21,3 @@ reset.addEventListener("click", () => {
   location.reload();
 });
 
- 

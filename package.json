@@ -14,8 +14,8 @@
   "author": "",
   "type": "commonjs",
   "main": "script.js",
-  "scripts": {
-    "test": "jest"
+"scripts": {
+  "test": "npx jest --env=jsdom"
 },
   "dependencies": {
     "jest-environment-jsdom": "^30.2.0",
